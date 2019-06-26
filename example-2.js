@@ -1,3 +1,8 @@
+/*
+* DIRECTIONS:
+* Include the following inside main() below renderer
+*/
+
 const fov = 75; // field of view
 const aspect = 2;  // the canvas default
 const near = 0.1;

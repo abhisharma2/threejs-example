@@ -1,3 +1,8 @@
+/*
+* DIRECTIONS:
+* Include the following inside main(), remove the renderer() method added in example-6.js
+*/
+
 function render(time) {
   time *= 0.001;  // convert time to seconds
  

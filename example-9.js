@@ -1,4 +1,10 @@
-// canvas { width: 100%; }
+/*
+* DIRECTIONS:
+* add resizeRendererToDisplaySize() inside main(), add the method inside of the animation function
+* update the CSS to be: canvas { width: 100%; }
+*/
+
+
 
 // write a function to check resize
 function resizeRendererToDisplaySize(renderer) {

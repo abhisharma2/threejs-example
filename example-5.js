@@ -1,3 +1,8 @@
+/*
+* DIRECTIONS:
+* Include the following inside main()
+*/
+
 const boxWidth = 1;
 const boxHeight = 1;
 const boxDepth = 1;
